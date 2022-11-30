@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Група кольорів 1"
+        android:id="@+id/group_1"/>
+    <item android:title="Група кольорів 2"
+        android:id="@+id/group_2"/>
+    <item android:title="Група кольорів 3"
+        android:id="@+id/group_3"/>
+</menu>
